@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPGEImages</folder>
+	<filename>171.png</filename>
+	<path>D:\daima\yolov4-pytorch-master\VOCdevkit\VOC2007\JPEGImages\171.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>758</width>
+		<height>764</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penlin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymin>59</ymin>
+			<xmax>631</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

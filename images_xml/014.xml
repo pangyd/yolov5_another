@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>014.jpg</filename>
+	<path>D:\yolov5-pytorch-main\images\014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>647</width>
+		<height>469</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>264</ymin>
+			<xmax>416</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPGEImages</folder>
+	<filename>spray_632.jpg</filename>
+	<path>D:\daima\yolov4-pytorch-master\VOCdevkit\VOC2007\JPEGImages\spray_632.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>761</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penlin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>42</ymin>
+			<xmax>311</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

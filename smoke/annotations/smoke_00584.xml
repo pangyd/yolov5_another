@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>JPEGImages</folder>
+	<filename>00584.jpg</filename>
+	<path>/suncere/pyd/yolov5-pytorch-main/VOCdevkit/VOC2007/JPEGImages/smoke_00584.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>206</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>55</ymin>
+			<xmax>204</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

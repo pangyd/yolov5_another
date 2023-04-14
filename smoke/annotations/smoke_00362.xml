@@ -1,0 +1,14 @@
+<?xml version="1.0" ?><annotation>
+	<folder>images</folder>
+	<filename>smoke_00362.jpg</filename>
+	<path>/suncere/pyd/yolov5-pytorch-main/VOCdevkit/VOC2007/JPEGImages/smoke_00362.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>463</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

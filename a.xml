@@ -1,0 +1,15 @@
+<annotation>
+    <folder>JPEGImages</folder>
+    <filename>{}</filename>
+    <path>D:\daima\yolov4-pytorch-master\VOCdevkit\VOC2007\JPEGImages\{}</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>{}</width>
+        <height>{}</height>
+        <depth>{}</depth>
+    </size>
+    <segmented>0</segmented>
+    
+</annotation>

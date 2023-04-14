@@ -1,0 +1,375 @@
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/11021.jpg 874,140,984,213,0 417,118,505,145,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110210.jpg 882,277,1232,596,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110211.jpg 1093,420,1234,582,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110215.jpg 1479,241,1613,371,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110216.jpg 1168,501,1236,603,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110218.jpg 1087,309,1233,599,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/11022.jpg 788,310,940,576,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110221.jpg 1163,444,1236,594,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110222.jpg 1833,571,1916,719,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110223.jpg 1848,652,1919,856,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110224.jpg 1884,613,1919,707,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110225.jpg 1880,584,1920,724,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110226.jpg 1797,564,1918,719,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110228.jpg 1880,632,1920,716,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110229.jpg 1868,598,1920,721,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/11023.jpg 850,469,940,591,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110230.jpg 1451,338,1576,371,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/110231.jpg 1427,307,1561,366,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/11024.jpg 866,505,941,594,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/11026.jpg 829,473,936,587,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/11027.jpg 1019,453,1232,620,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/11029.jpg 1395,341,1538,434,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/145.jpg 818,142,897,196,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/146.jpg 367,144,569,245,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/147.jpg 802,9,948,194,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/149.jpg 633,31,758,168,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/150.jpg 252,69,553,361,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/152.jpg 800,279,984,505,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/153.jpg 821,287,982,501,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/154.jpg 899,292,993,498,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/155.jpg 827,388,973,499,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/156.jpg 554,255,697,495,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/159.jpg 887,228,1023,424,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/160.jpg 363,214,616,318,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/163.jpg 105,170,356,336,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/164.jpg 300,138,448,325,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/165.jpg 336,156,518,323,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/167.jpg 5,65,287,265,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/172.jpg 447,76,644,173,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/173.jpg 575,96,686,162,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/174.jpg 608,77,684,118,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/175.jpg 857,183,1017,352,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/176.jpg 786,203,967,326,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/177.jpg 815,218,984,336,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/180.jpg 520,251,659,395,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/181.jpg 398,292,541,433,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/182.jpg 393,308,564,428,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/183.jpg 368,273,536,384,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/184.jpg 380,259,627,369,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/192.jpg 779,227,829,380,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/194.jpg 778,271,832,379,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/195.jpg 784,264,833,378,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/196.jpg 785,274,836,384,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/200.jpg 6,70,238,315,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/202211071.jpg 880,168,945,199,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110710.jpg 841,521,944,592,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110712.jpg 1169,456,1237,578,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110716.jpg 1083,445,1222,599,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110721.jpg 1780,548,1909,714,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110722.jpg 1811,599,1902,691,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110724.jpg 1873,659,1913,721,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/202211073.jpg 863,163,986,199,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110732.jpg 831,92,955,149,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110734.jpg 823,90,905,145,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110735.jpg 1216,5,1268,71,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110736.jpg 822,95,907,157,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110738.jpg 849,99,948,153,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110739.jpg 1198,5,1259,75,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110740.jpg 1257,5,1335,68,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110745.jpg 300,354,365,371,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110746.jpg 354,348,384,365,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110747.jpg 358,347,393,363,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110748.jpg 368,346,428,355,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110749.jpg 358,344,400,359,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/202211075.jpg 198,464,361,580,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110752.jpg 326,351,358,367,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110753.jpg 349,349,377,383,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110754.jpg 6,85,73,102,0 109,99,156,114,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022110756.jpg 9,79,82,91,0 104,93,170,103,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/202211078.jpg 1034,31,1254,556,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/202211111.jpg 563,85,712,153,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111110.jpg 136,151,370,235,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/20221111117.jpg 508,103,675,205,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/20221111119.jpg 322,48,645,206,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/20221111120.jpg 791,13,873,98,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/20221111121.jpg 644,31,832,128,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111115.jpg 897,35,1009,84,0 247,67,404,226,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111119.jpg 294,112,505,198,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/202211112.jpg 550,131,694,219,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111120.jpg 440,37,637,210,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111121.jpg 954,2,1069,73,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111127.jpg 630,109,712,244,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/202211113.jpg 666,89,712,149,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111130.jpg 820,6,1026,95,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111132.jpg 1291,217,1366,273,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/202211115.jpg 343,41,644,214,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111156.jpg 1108,437,1234,603,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111159.jpg 832,488,937,582,0 1025,257,1229,520,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111160.jpg 1176,510,1233,596,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111161.jpg 1043,238,1234,581,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111165.jpg 1109,414,1230,567,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111167.jpg 1161,473,1238,581,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/202211118.jpg 459,117,620,210,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111181.jpg 851,94,933,164,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111183.jpg 781,82,890,158,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111186.jpg 816,90,905,158,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/202211119.jpg 672,76,794,132,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111190.jpg 1255,5,1303,66,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/2022111192.jpg 1257,8,1325,64,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/204.jpg 515,197,581,295,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/205.jpg 439,189,534,287,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/207.jpg 174,180,288,311,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/208.jpg 176,171,292,306,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/213.jpg 264,54,357,309,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/215.jpg 467,62,597,290,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_1.jpg 92,187,527,429,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_100.jpg 2390,436,2553,721,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_101.jpg 7,162,269,602,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_104.jpg 2377,499,2555,745,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_105.jpg 2377,499,2555,745,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_11.jpg 1305,114,1447,553,0 7,201,832,590,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_12.jpg 1324,116,1466,555,0 24,205,850,594,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_13.jpg 1,293,207,610,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_134.jpg 34,683,140,763,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_136.jpg 40,683,155,759,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_139.jpg 12,642,196,749,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_14.jpg 1381,165,1490,564,0 266,132,842,604,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_140.jpg 1,633,185,740,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_143.jpg 1,590,244,719,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_145.jpg 6,558,247,716,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_147.jpg 9,573,274,695,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_148.jpg 9,573,274,695,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_149.jpg 2,522,274,695,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_151.jpg 9,516,355,674,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_152.jpg 10,477,382,655,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_154.jpg 5,466,377,629,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_155.jpg 3,435,415,587,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_156.jpg 173,431,438,579,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_157.jpg 7,106,318,602,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_16.jpg 1406,167,1515,566,0 329,132,842,586,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_160.jpg 151,313,459,524,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_162.jpg 174,293,482,504,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_163.jpg 218,282,526,493,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_166.jpg 92,227,577,486,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_167.jpg 144,224,629,483,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_168.jpg 7,84,334,595,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_169.jpg 154,259,652,480,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_17.jpg 1415,167,1524,566,0 329,132,842,599,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_172.jpg 201,204,691,477,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_173.jpg 256,205,746,478,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_177.jpg 344,247,829,471,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_178.jpg 344,247,824,470,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_18.jpg 1435,161,1544,560,0 355,132,842,588,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_181.jpg 376,246,854,465,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_183.jpg 403,243,881,462,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_187.jpg 441,239,919,458,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_189.jpg 490,233,942,456,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_19.jpg 1468,174,1577,573,0 351,132,842,597,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_192.jpg 558,231,951,454,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_193.jpg 558,231,951,454,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_194.jpg 558,231,951,454,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_195.jpg 577,231,970,454,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_198.jpg 596,231,989,454,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_199.jpg 608,234,1001,457,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_2.jpg 3,295,199,608,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_201.jpg 5,101,375,602,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_202.jpg 658,256,999,456,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_205.jpg 614,245,1027,456,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_206.jpg 618,241,1031,452,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_207.jpg 874,335,1208,537,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_208.jpg 900,319,1234,521,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_211.jpg 1038,280,1491,629,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_212.jpg 5,49,386,606,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_213.jpg 1094,308,1510,630,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_215.jpg 1066,251,1580,619,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_218.jpg 1115,226,1635,616,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_220.jpg 1126,208,1635,616,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_221.jpg 1126,208,1635,616,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_222.jpg 1126,208,1635,616,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_224.jpg 8,102,388,591,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_225.jpg 1094,194,1635,617,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_228.jpg 1100,194,1641,617,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_229.jpg 1091,192,1632,615,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_23.jpg 1523,147,1632,586,0 459,171,855,604,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_230.jpg 1094,192,1635,615,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_231.jpg 1099,191,1640,614,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_233.jpg 1101,191,1642,614,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_234.jpg 1086,191,1627,614,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_235.jpg 10,112,401,597,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_237.jpg 1172,201,1636,608,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_238.jpg 1179,194,1636,608,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_239.jpg 1187,195,1644,609,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_24.jpg 1,310,203,612,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_240.jpg 1170,199,1627,613,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_242.jpg 1169,197,1626,611,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_243.jpg 1169,197,1626,611,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_245.jpg 1201,204,1626,619,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_246.jpg 8,90,407,602,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_247.jpg 1212,258,1634,617,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_248.jpg 1198,222,1634,617,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_249.jpg 1165,237,1634,617,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_25.jpg 1568,184,1647,604,0 518,197,903,599,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_250.jpg 1145,226,1632,617,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_251.jpg 1145,226,1632,617,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_253.jpg 1144,226,1631,617,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_254.jpg 1144,226,1631,617,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_26.jpg 1581,186,1660,606,0 518,197,825,588,0 971,264,1097,562,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_268.jpg 1,56,423,599,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_27.jpg 1592,282,1688,608,0 971,265,1149,562,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_28.jpg 1603,286,1699,612,0 971,265,1205,565,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_280.jpg 1169,242,1633,620,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_281.jpg 1169,242,1633,620,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_29.jpg 1620,288,1716,595,0 971,265,1279,565,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_3.jpg 1182,145,1325,610,0 18,140,827,577,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_30.jpg 1636,288,1732,595,0 974,268,1282,568,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_302.jpg 1294,274,1629,619,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_303.jpg 1235,238,1633,622,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_304.jpg 1163,181,1626,610,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_31.jpg 1657,290,1753,597,0 974,252,1292,568,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_312.jpg 19,64,469,602,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_313.jpg 1155,242,1629,615,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_33.jpg 1688,306,1761,597,0 974,252,1292,568,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_335.jpg 1,32,501,602,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_336.jpg 1095,209,1629,619,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_34.jpg 985,254,1419,566,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_346.jpg 25,52,508,604,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_35.jpg 1,252,210,606,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_36.jpg 1042,302,1477,597,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_368.jpg 27,80,525,601,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_369.jpg 1184,199,1631,619,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_379.jpg 10,78,536,599,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_380.jpg 1158,219,1633,615,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_381.jpg 1158,219,1633,615,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_39.jpg 1167,287,1624,580,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_401.jpg 16,62,562,602,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_423.jpg 8,60,592,597,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_431.jpg 1126,240,1705,595,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_432.jpg 1124,262,1765,597,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_434.jpg 12,49,603,614,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_437.jpg 1346,222,1842,551,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_44.jpg 1306,316,1746,599,0 1862,210,1961,593,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_440.jpg 1414,219,1910,548,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_441.jpg 1502,218,1920,554,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_443.jpg 1448,229,1920,506,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_446.jpg 10,52,612,590,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_447.jpg 1515,192,1920,462,0 1420,526,1587,623,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_45.jpg 1329,316,1746,593,0 1867,206,1966,589,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_451.jpg 1501,149,1920,419,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_457.jpg 8,32,623,610,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_468.jpg 19,58,658,601,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_47.jpg 1886,184,2003,599,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_475.jpg 203,149,255,183,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_477.jpg 759,290,859,366,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_481.jpg 42,236,273,405,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_49.jpg 1923,164,2031,451,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_490.jpg 10,36,679,591,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_493.jpg 371,173,524,463,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_496.jpg 280,30,617,353,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_497.jpg 589,40,698,117,0 723,47,752,79,0 423,77,490,143,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_50.jpg 1931,221,2057,441,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_501.jpg 10,51,690,606,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_512.jpg 7,102,703,597,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_52.jpg 1968,262,2084,475,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_534.jpg 18,88,716,595,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_552.jpg 287,139,418,353,0 419,127,571,221,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_555.jpg 630,30,766,166,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_557.jpg 10,90,747,597,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_568.jpg 14,91,762,601,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_57.jpg 3,251,240,606,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_571.jpg 744,282,819,344,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_572.jpg 746,265,821,342,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_573.jpg 737,270,818,350,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_579.jpg 14,93,779,595,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_595.jpg 5,177,331,499,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_597.jpg 116,584,399,758,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_6.jpg 1239,142,1381,581,0 19,197,764,587,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_601.jpg 8,88,810,591,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_602.jpg 813,388,1010,523,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_605.jpg 571,227,709,489,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_609.jpg 11,60,276,280,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_611.jpg 884,202,1023,430,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_613.jpg 366,187,611,331,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_614.jpg 464,201,608,329,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_616.jpg 162,126,357,339,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_617.jpg 285,118,450,330,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_619.jpg 499,129,677,375,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_620.jpg 3,232,214,519,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_622.jpg 146,182,324,420,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_623.jpg 18,108,832,602,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_625.jpg 106,178,305,426,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_626.jpg 228,144,406,345,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_627.jpg 560,171,686,368,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_629.jpg 676,223,821,272,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_634.jpg 8,86,864,582,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_635.jpg 3,72,199,282,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_639.jpg 490,70,696,185,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_640.jpg 602,43,690,132,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_642.jpg 765,120,1020,373,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_643.jpg 766,74,986,349,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_644.jpg 790,55,998,354,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_645.jpg 8,90,875,604,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_646.jpg 752,84,942,352,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_648.jpg 394,243,654,404,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_649.jpg 395,289,543,483,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_650.jpg 398,304,568,445,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_656.jpg 8,88,875,602,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_663.jpg 573,1,888,436,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_667.jpg 5,325,181,608,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_67.jpg 2212,162,2323,510,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_670.jpg 782,265,851,376,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_671.jpg 776,297,835,382,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_672.jpg 771,293,820,383,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_674.jpg 775,301,833,382,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_675.jpg 774,267,835,381,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_677.jpg 777,257,841,383,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_68.jpg 7,212,242,606,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_682.jpg 337,61,476,350,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_683.jpg 336,62,476,340,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_684.jpg 334,68,486,349,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_69.jpg 2219,173,2345,514,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_690.jpg 705,95,908,593,0 5,88,690,588,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_692.jpg 6,6,145,115,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_693.jpg 399,2,458,72,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_694.jpg 290,7,334,59,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_696.jpg 401,2,448,74,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_699.jpg 7,60,238,319,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_7.jpg 1252,123,1394,562,0 18,188,820,594,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_701.jpg 5,90,919,601,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_702.jpg 903,195,984,391,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_704.jpg 492,191,578,327,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_705.jpg 424,183,522,299,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_706.jpg 277,181,350,316,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_707.jpg 164,173,288,318,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_709.jpg 937,217,1009,392,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_71.jpg 2199,223,2375,627,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_710.jpg 637,190,671,313,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_711.jpg 54,203,228,364,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_712.jpg 734,152,929,590,0 10,106,731,597,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_713.jpg 2,69,117,320,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_716.jpg 398,91,468,300,0 95,75,345,316,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_717.jpg 394,53,596,307,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_723.jpg 721,175,932,590,0 21,104,694,597,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_73.jpg 2210,226,2386,630,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_745.jpg 775,115,914,577,0 7,99,760,584,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_755.jpg 1262,285,1524,374,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_76.jpg 2212,165,2436,628,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_767.jpg 8,95,897,595,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_778.jpg 3,299,177,606,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_779.jpg 8,91,873,580,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_79.jpg 1,169,257,599,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_790.jpg 14,108,871,578,0 955,275,1038,571,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_8.jpg 1267,118,1409,557,0 7,191,801,590,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_80.jpg 2218,220,2433,622,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_81.jpg 2251,197,2466,599,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_812.jpg 7,112,832,590,0 971,291,1073,565,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_82.jpg 2297,242,2475,596,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_823.jpg 964,190,1084,567,0 7,95,862,591,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_832.jpg 1018,143,1138,560,0 10,112,875,586,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_835.jpg 3,301,197,597,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_836.jpg 1081,206,1171,562,0 3,97,869,586,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_837.jpg 1084,178,1182,567,0 7,99,845,584,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_84.jpg 2334,260,2536,606,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_841.jpg 1155,173,1266,558,0 7,102,866,590,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_842.jpg 1144,167,1273,558,0 5,101,851,588,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_844.jpg 1192,112,1292,554,0 5,91,851,588,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_85.jpg 2327,271,2527,617,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_86.jpg 2316,271,2530,690,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_87.jpg 2323,271,2530,712,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_89.jpg 2327,274,2534,715,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_9.jpg 1274,113,1416,552,0 7,195,825,590,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_91.jpg 2286,221,2553,747,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_92.jpg 2286,195,2553,721,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_97.jpg 2371,352,2553,721,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_98.jpg 2382,386,2553,721,0
+/suncere/pyd/yolov5/VOCdevkit/VOC2007/JPEGImages/spray_99.jpg 2390,436,2553,721,0
