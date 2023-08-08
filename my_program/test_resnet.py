@@ -1,9 +1,4 @@
-from torchvision import transforms
-import torch
-import numpy as np
-from torchvision import datasets, utils
-from torch.utils.data import DataLoader
-from resnet50 import *
+from my_program.resnet50 import *
 import matplotlib.pyplot as plt
 
 transform = transforms.Compose([transforms.ToTensor(),

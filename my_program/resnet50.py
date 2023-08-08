@@ -6,7 +6,7 @@ import numpy as np
 from torchvision import datasets, utils
 from torch.utils.data import DataLoader
 from torch.utils.data.dataset import Dataset
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import pandas as pd
 from PIL import Image
 
@@ -201,7 +201,7 @@ if __name__ == "__main__":
     # train_loader, test_loader = data_prepare(transform)
 
     # 自己的数据集
-    mydata = My_dataset("./label.txt")   # mydata: 可迭代数据集
+    mydata = My_dataset("../label.txt")   # mydata: 可迭代数据集
     data_loader = DataLoader(mydata, batch_size=4, shuffle=True, drop_last=True)
 
     # 导入残差网络

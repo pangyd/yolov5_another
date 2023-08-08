@@ -52,7 +52,7 @@ def rectangle_mean(img):
     img_new = cv.equalizeHist(img)
     return img_new
 
-img = cv.imread("144.jpg")
+img = cv.imread("../144.jpg")
 cv.imshow("img", img)
 img = rectangle_mean(img)
 cv.imshow("img_new", img)

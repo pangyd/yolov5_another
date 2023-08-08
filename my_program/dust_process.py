@@ -196,7 +196,7 @@ def main():
 
 
 def practice_enhence():
-    img = cv.imread("images/001.jpg")
+    img = cv.imread("../images/001.jpg")
     cv.imshow("img", img)
     img_new = hsv_changing(img)
     cv.imshow("img_new", img_new)

@@ -28,10 +28,10 @@ district_size = [(center_w, center_h), (w - center_w, center_h), (center_w, h - 
 xy_list = [(0, 0), (center_w, 0), (0, center_h), (center_w, center_h)]
 
 # 获取原数据
-img_path = "img"
+img_path = "../img"
 img_list = os.listdir(img_path)[:4]
 # 读取原xml
-xml_path = "images_xml"
+xml_path = "../images_xml"
 xml_list = os.listdir(xml_path)[:4]
 
 xml_new_filename = "new.xml"

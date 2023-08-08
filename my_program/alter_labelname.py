@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import xml.dom.minidom
 import os
 
-xml_path = "smoke/annotations"
+xml_path = "../smoke/annotations"
 
 
 # 修改标签名
@@ -72,7 +72,7 @@ def alter_labelname():
 
 def save_txt(path):
     imgs = os.listdir(path)
-    with open("label.txt", "w") as f:
+    with open("../label.txt", "w") as f:
         for img in imgs:
             f.write(path + "/" + img + " " + "1" + "\n")
 

@@ -204,7 +204,7 @@ def pyramid_changed(img_path):
 
     cv.waitKey(0)
     cv.destroyAllWindows()
-pyramid_changed("images/001.jpg")
+pyramid_changed("../images/001.jpg")
 
 
 # 随机转换通道
@@ -237,7 +237,7 @@ def random_rotate(img_path, lower, upper):
     cv.waitKey(0)
     cv.destroyAllWindows()
     return img
-random_rotate("144.jpg", 0, 90)
+random_rotate("../144.jpg", 0, 90)
 
 
 def readAnnotation(xml_path):
